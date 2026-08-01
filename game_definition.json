@@ -3,6 +3,7 @@
   "name": "Smash Up",
   "publisher": "Alderac Entertainment Group",
   "version": "1.0.0",
+  "iconData": "game-icons/smashup.png",
   "elementTypes": {
     "factions": {
       "id": "factions",
